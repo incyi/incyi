@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<sub><sup>The most repos here are playgrounds for testing something. Forks which I create of public projects are removed after my pull requests are merged. </sub></sup>
+
 <!--
 **incyi/incyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
