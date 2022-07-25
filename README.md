@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yigitinanc/">
-    <img src="https://img.shields.io/badge/-Inanc%20Yigit-blue>
+    <img src="https://img.shields.io/badge/-Inanc%20Yigit-blue />
   </a>
 </p>
   
