@@ -6,6 +6,10 @@
 
 ### As-Salāmu ʿAlaykum 👋
 
+Bismillah  
+Alhamdulillah  
+Vesselatu vesselamu ala Rasulillah  
+
 The most repos here are playgrounds for testing something. Forks which I create of public projects are removed after my pull requests are merged.
 
 <!--
