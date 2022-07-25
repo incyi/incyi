@@ -1,8 +1,14 @@
-<a href="https://www.linkedin.com/in/yigitinanc/">
-  <img src="https://img.shields.io/badge/-Inanc%20Yigit-blue" />
-</a>
+<p align="Center">
+  <a href="https://www.linkedin.com/in/yigitinanc/">
+    <img src="https://img.shields.io/badge/-LinkedIn%20-blue" />
+  </a>
+
+  <a href="https://incyi.github.io/">
+    <img src="https://img.shields.io/badge/-GitHub.io-blue" />
+  </a>
   
-<img src="https://github-readme-stats.vercel.app/api?username=incyi&show_icons=true&theme=dark" width="395"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=incyi&layout=compact&theme=dark" width="330"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=incyi&show_icons=true&theme=dark" width="395"/> <img src="https://github-readme-stats.vercel.app/api/top-  langs?username=incyi&layout=compact&theme=dark" width="330"/> 
+</p>
 
 ### As-Salāmu ʿAlaykum 👋
 
