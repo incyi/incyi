@@ -4,7 +4,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=incyi&show_icons=true&theme=dark" width="395"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=incyi&layout=compact&theme=dark" width="330"/> 
 
-### Hi there 👋
+### As-Salāmu ʿAlaykum 👋
 
 The most repos here are playgrounds for testing something. Forks which I create of public projects are removed after my pull requests are merged.
 
