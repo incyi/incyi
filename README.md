@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ 
+![Profile View Counter](https://komarev.com/ghpvc/?username=incyi)
+ 
