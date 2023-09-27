@@ -1,14 +1,8 @@
-<p align="Center">
+<a href="https://tryhackme.com/signup?referrer=6511d9cfcc2e0d4aa71d42a5"> <img src="https://tryhackme-badges.s3.amazonaws.com/incyi.png" alt="TryHackMe"> </a>
 
-<a href="https://www.linkedin.com/in/yigitinanc/">
-<img src="https://img.shields.io/badge/-LinkedIn%20-blue" />
-</a>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=incyi&show_icons=true&theme=dark" width="395"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=incyi&layout=compact&theme=dark" width="330"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=incyi&show_icons=true&theme=dark" width="460"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=incyi&layout=compact&theme=dark" width="350"/> 
 
-</p>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/incyi.png" alt="TryHackMe">
+<a href="https://www.linkedin.com/in/yigitinanc/"> <img src="https://img.shields.io/badge/-LinkedIn%20-blue"/></a>
 
 ### As-Salāmu ʿAlaykum 👋
 
