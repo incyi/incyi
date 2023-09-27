@@ -12,6 +12,9 @@
 
 </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/incyi.png" alt="TryHackMe">
+
+
 ### As-Salāmu ʿAlaykum 👋
 
 Bismillah  
