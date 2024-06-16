@@ -1,4 +1,4 @@
-# As-Salāmu ʿAlaykum 👋 I'm Inanc
+# As-Salāmu ʿAlaykum 👋 I'm İnanç
 
 <a href="https://www.linkedin.com/in/yigitinanc/"> <img src="https://img.shields.io/badge/-LinkedIn%20-blue"/></a> ![Profile View Counter](https://komarev.com/ghpvc/?username=incyi) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) 
 
