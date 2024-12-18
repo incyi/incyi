@@ -6,7 +6,7 @@ Bismillah
 Alhamdulillah
 Wassalatu wassalamu ala Rasulillah
 
-Most repositories here are playgrounds for testing purposes. Forks of public projects that I create are removed after my pull requests are merged.
+Most repositories here on my personal GitHub profile are playgrounds for testing purposes. Forks of public projects that I create are removed after my pull requests are merged.
 
 More than ten years of experience with hard- and software for: Drones, barcode scanners, smart price labels, TVs, financial software, revolving doors, barriers, self-driving tractors, humanoid robots, smart room sensors, blood measurement instruments, milking robots, smart sensor data collectors, boats, campers, power electronics, and batteries.
 
